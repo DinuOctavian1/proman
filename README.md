@@ -18,9 +18,11 @@ Project is created with:
 
 ## Screenshots
 Home Page
+
 ![image](https://user-images.githubusercontent.com/65591160/211625769-78e8c13f-2e53-4c27-ba30-2148d303d14c.png)
 
 Task Modal
+
 ![image](https://user-images.githubusercontent.com/65591160/211625945-e4a5e800-943a-4418-8ed6-02ee21904a68.png)
 
 ## Setup
